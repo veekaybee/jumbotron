@@ -1,2 +1,2 @@
-# jumbotron
-Main webpage static site
+# Static Site Using Bootstrap Jumbotron
+
